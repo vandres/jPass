@@ -1,0 +1,71 @@
+input,
+label {
+  vertical-align: middle;
+}
+.jpass {
+  display: inline-block;
+  padding-right: 40px;
+  line-height: 32px;
+  min-height: 32px;
+  background: url('../img/Dead.png') top right no-repeat;
+}
+.jpass.jpass-1 {
+  background-image: url('../img/Sun.png');
+}
+.jpass.jpass-2 {
+  background-image: url('../img/Win.png');
+}
+.jpass.jpass-3 {
+  background-image: url('../img/Zombie.png');
+}
+.jpass.jpass-4 {
+  background-image: url('../img/Wave.png');
+}
+.jpass.jpass-5 {
+  background-image: url('../img/Sun.png');
+}
+.jpass.jpass-6 {
+  background-image: url('../img/Sleepy2.png');
+}
+.jpass.jpass-7 {
+  background-image: url('../img/Ninja.png');
+}
+.jpass.jpass-8 {
+  background-image: url('../img/Silly.png');
+}
+.jpass.jpass-9 {
+  background-image: url('../img/Loser.png');
+}
+.jpass.jpass-10 {
+  background-image: url('../img/Ligthbulb.png');
+}
+.jpass.jpass-11 {
+  background-image: url('../img/Dog.png');
+}
+.jpass.jpass-12 {
+  background-image: url('../img/Cat.png');
+}
+.jpass.jpass-13 {
+  background-image: url('../img/Goodbye.png');
+}
+.jpass.jpass-14 {
+  background-image: url('../img/Bomb.png');
+}
+.jpass.jpass-15 {
+  background-image: url('../img/Balloon.png');
+}
+.jpass.jpass-16 {
+  background-image: url('../img/Rainbow.png');
+}
+.jpass.jpass-17 {
+  background-image: url('../img/Rainning.png');
+}
+.jpass.jpass-18 {
+  background-image: url('../img/Laughing.png');
+}
+.jpass.jpass-19 {
+  background-image: url('../img/Dizzy.png');
+}
+.jpass.jpass-20 {
+  background-image: url('../img/Cool.png');
+}

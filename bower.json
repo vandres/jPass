@@ -1,0 +1,15 @@
+{
+    "name": "jPass",
+    "version": "0.0.1",
+    "homepage": "https://github.com/vandres/jPass",
+    "authors": [
+        "Volker Andres <volker.andres@yahoo.de>"
+    ],
+    "description": "Helps the user indicating, if he entered the correct password, by showing him a calculated image.",
+    "main": "dist/jquery.jpass.min.js",
+    "keywords": [
+        "password",
+        "indicator"
+    ],
+    "license": "MIT"
+}
