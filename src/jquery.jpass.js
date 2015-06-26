@@ -46,7 +46,7 @@
                 characterCode = 0;
 
             for (i = 0; i < passwordLength; i++) {
-                characterCode = password.charCodeAt(i) % 9;
+                characterCode = (password.charCodeAt(i) * i) % 9;
                 if (characterCode === 0) {
                     characterCode = 9;
                 }

@@ -15,7 +15,7 @@ Demo
 ----
 
 Try the demo here: [http://jpass.voan.de/demo](http://jpass.voan.de/demo)
-See what happens when you enter "password" and "passwort"
+See what happens when you enter "password", "passwort" and "passwodr"
 
 
 Open for Issues
